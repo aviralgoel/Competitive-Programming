@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572814021 source:c:\users\user\desktop\codeforces\primsalgorithm\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<functional>
+	<utility>
+
